@@ -1,0 +1,19 @@
+.login {
+    background: url(../img/fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    width: 80%;
+    height: 246px;
+    margin: auto;
+    z-index: 2;
+    position: relative;
+}/* Empty. Add your own CSS if you like */
+html{
+/*background:url(../img/fondo.jpg);
+}*/
+//color del bordo y fondo
+.bar.bar-positive {
+    background-color: #E3E3E3;
+    border-color: #E3E3E3;
+}
